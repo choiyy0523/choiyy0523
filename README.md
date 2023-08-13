@@ -31,14 +31,14 @@
 ### 이력 📜
 #### Education 🎓
 
-- **KT 에이블스쿨 4기 DX트랙** 진행 중 (23.08 ~)
-- **삼성청년SW아카데미 (SSAFY) 7기** 수료 (22.01 ~ 12)
-- 연세대학교 창업지원단 Brute Force 3기 수료 (20.10 ~ 21.01)
-- 연세대학교 생화학과 졸업
+> - **KT 에이블스쿨 4기 DX트랙** 진행 중 (23.08 ~)
+> - **삼성청년SW아카데미 (SSAFY) 7기** 수료 (22.01 ~ 12)
+> - 연세대학교 창업지원단 Brute Force 3기 수료 (20.10 ~ 21.01)
+> - 연세대학교 생화학과 졸업
 
 #### Coaching 👩‍🏫
 
-- 카카오 테크 캠퍼스 1기 프론트엔드 실습코치 (HTML/CSS, JS, React)
-- S-OIL Citizen Data Scientist Basic 과정 실습코치 (Python, Pandas, ML)
-- 교보생명 데이터분석 사내 자격 인증과정 실습코치 (Python, SQL)
-- 신한투자증권 프로디지털아카데미 1기 실습코치 (Python, Django, JS, Vue.js)
+> - 카카오테크캠퍼스 1기 프론트엔드 실습코치 (23.04 ~ 06 | HTML/CSS, JS, React)
+> - S-OIL Citizen Data Scientist Basic 과정 실습코치 (23.04, 05 | Python, Pandas, ML)
+> - 교보생명 데이터분석 사내 자격 인증과정 실습코치 (23.04 | Python, SQL)
+> - 신한투자증권 프로디지털아카데미 1기 실습코치 (23.01 ~ 02 | Python, Django, JS, Vue.js)
