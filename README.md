@@ -37,7 +37,8 @@
 
 #### Work Experience
 
-> - LG CNS 전지운영팀 북미인턴 (24.02 ~ 24.04)
+> - 롯데바이오로직스 IT GMP System (24.05 ~ )
+> - LG CNS 스마트팩토리사업부 전지운영팀 생산운영 북미인턴 (24.02 ~ 24.04)
 > - 대웅제약 오송공장 IT시스템 운영관리/의약품 제조(고형제) 인턴 (23.11 ~ 24.02)
 > - 카카오테크캠퍼스 1기 프론트엔드 실습코치 (23.04 ~ 06 | HTML/CSS, JS, React)
 > - S-OIL Citizen Data Scientist Basic 과정 실습코치 (23.04, 05 | Python, Pandas, ML)
